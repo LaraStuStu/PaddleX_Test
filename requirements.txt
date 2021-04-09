@@ -1,4 +1,5 @@
 paddlepaddle
 paddleclas
 paddleseg
-Paddlex
+paddlex==1.1.1
+paddledetection
